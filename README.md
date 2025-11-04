@@ -26,22 +26,22 @@ I'm a Full Stack Developer passionate about building web applications and explor
 ---
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivekranjan8789&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekranjan8789&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vivekr077&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekr077&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200"/>
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vivekranjan8789&theme=tokyonight&no-frame=true&column=2&title=Commits,Repositories" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vivekr077&theme=tokyonight&no-frame=true&column=2&title=Commits,Repositories" alt="GitHub Trophies"/>
 </div>
 
 ---
 ## 📊 Languages & Coding Stats
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivekranjan8789&theme=tokyonight&layout=pie" height="200" alt="Languages Pie Chart"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vivekranjan8789&theme=tokyonight" height="200" alt="Productivity Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivekr077&theme=tokyonight&layout=pie" height="200" alt="Languages Pie Chart"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vivekr077&theme=tokyonight" height="200" alt="Productivity Stats"/>
 </div>
 
 ---
